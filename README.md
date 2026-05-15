@@ -135,22 +135,19 @@ Debugging and optimization were performed using:
 
 ---
 
-##  Screenshots
+## 📸 Screenshots
 
 ### Authentication Screen
-![Auth Screen](screenshots/auth.png)
+![Auth Screen](auth.png)
 
 ### Home Dashboard
-![Home Screen](screenshots/home.png)
+![Home Screen](home.png)
 
 ### Market Trends
-![Market Screen](screenshots/market.png)
-
-### Stock Monitoring
-![Stock Screen](screenshots/stock.png)
+![Market Screen](market.png)
 
 ### Profile Screen
-![Profile Screen](screenshots/profile.png)
+![Profile Screen](profile.png)
 
 ---
 
