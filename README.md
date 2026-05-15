@@ -135,6 +135,25 @@ Debugging and optimization were performed using:
 
 ---
 
+##  Screenshots
+
+### Authentication Screen
+![Auth Screen](screenshots/auth.png)
+
+### Home Dashboard
+![Home Screen](screenshots/home.png)
+
+### Market Trends
+![Market Screen](screenshots/market.png)
+
+### Stock Monitoring
+![Stock Screen](screenshots/stock.png)
+
+### Profile Screen
+![Profile Screen](screenshots/profile.png)
+
+---
+
 ##  Developed By
 
 **Kathanika Mogeraya**  
